@@ -74,6 +74,4 @@ obj.add("Kim", office="1234567", email="kim@company.com")
 
 obj.add("Park", office="2345678", email="park@company.com")
 
-obj.add("숭실대", office="129393", email="soongsil@ssu.ac.kr")
-
 print(obj)
